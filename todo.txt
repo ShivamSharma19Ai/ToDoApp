@@ -1,0 +1,18 @@
+Feature 
+1. Add Tasks
+2. Remove Tasks
+
+----Models----
+
+Tasks
+    Taskname:
+    Description:
+
+
+----Routers----
+
+./api/Tasks
+     /get
+     get the list of Tasks
+     /post
+     post a specific Task
